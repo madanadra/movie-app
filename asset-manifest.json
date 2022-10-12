@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/movie-app/static/css/main.4dd13b10.css",
+    "main.js": "/movie-app/static/js/main.7e9e2f7f.js",
+    "static/media/disney.png": "/movie-app/static/media/disney.2bb9a107dacdc029b7db.png",
+    "static/media/github.png": "/movie-app/static/media/github.fba6e14de9c1f8a7b567.png",
+    "index.html": "/movie-app/index.html",
+    "main.4dd13b10.css.map": "/movie-app/static/css/main.4dd13b10.css.map",
+    "main.7e9e2f7f.js.map": "/movie-app/static/js/main.7e9e2f7f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4dd13b10.css",
+    "static/js/main.7e9e2f7f.js"
+  ]
+}
